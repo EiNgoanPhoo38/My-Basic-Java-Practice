@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/constructortest/constructortest.iml" filepath="$PROJECT_DIR$/constructortest/constructortest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/globalvariabletest/globalvariabletest.iml" filepath="$PROJECT_DIR$/globalvariabletest/globalvariabletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integerliterials/integerliterials.iml" filepath="$PROJECT_DIR$/integerliterials/integerliterials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdc/jdc.iml" filepath="$PROJECT_DIR$/jdc/jdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localvariabletest/localvariabletest.iml" filepath="$PROJECT_DIR$/localvariabletest/localvariabletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodtest/methodtest.iml" filepath="$PROJECT_DIR$/methodtest/methodtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modifierstest/modifierstest.iml" filepath="$PROJECT_DIR$/modifierstest/modifierstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/onlinejava.iml" filepath="$PROJECT_DIR$/.idea/onlinejava.iml" />
+    </modules>
+  </component>
+</project>
