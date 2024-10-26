@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/modifierstest/modifierstest.iml" filepath="$PROJECT_DIR$/modifierstest/modifierstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/onlinejava.iml" filepath="$PROJECT_DIR$/.idea/onlinejava.iml" />
       <module fileurl="file://$PROJECT_DIR$/refrencedatatypetest/refrencedatatypetest.iml" filepath="$PROJECT_DIR$/refrencedatatypetest/refrencedatatypetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statementtest/statementtest.iml" filepath="$PROJECT_DIR$/statementtest/statementtest.iml" />
     </modules>
   </component>
 </project>
