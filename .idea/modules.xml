@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/jdc/jdc.iml" filepath="$PROJECT_DIR$/jdc/jdc.iml" />
       <module fileurl="file://$PROJECT_DIR$/localvariabletest/localvariabletest.iml" filepath="$PROJECT_DIR$/localvariabletest/localvariabletest.iml" />
       <module fileurl="file://$PROJECT_DIR$/logicaltest/logicaltest.iml" filepath="$PROJECT_DIR$/logicaltest/logicaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopingstatementtest/loopingstatementtest.iml" filepath="$PROJECT_DIR$/loopingstatementtest/loopingstatementtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodtest/methodtest.iml" filepath="$PROJECT_DIR$/methodtest/methodtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/modifierstest/modifierstest.iml" filepath="$PROJECT_DIR$/modifierstest/modifierstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/onlinejava.iml" filepath="$PROJECT_DIR$/.idea/onlinejava.iml" />
