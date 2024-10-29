@@ -39,6 +39,13 @@ public class forTest {
         System.out.print("Enter an end number: ");input2=sc.nextInt();
         for(int i=input1; i<=input2;i++) System.out.print(i);
     }
+    public static void main{
+    System.out.println(getAverage(arr));}
+    public static int getAverage(int[]arr){
+    int sum = 0;
+    for(int i: arr){
+    sum+=i;}
+    }
     ********************************************************************/
 
 }
